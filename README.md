@@ -84,10 +84,26 @@ My most notable project is a fully functional e-commerce website, which I develo
 Feel free to reach out for collaboration, project inquiries, or just to connect about technology and development!
 
 
-Email: diyari2006@gmail.com
-LinkedIn: www.linkedin.com/in/diyari-faisal
+## 📫 Contact
 
----
+<p align="center">
+  <a href="mailto:diyari2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-diyari2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/diyari-faisal">
+    <img src="https://img.shields.io/badge/LinkedIn-diyari--faisal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/DemonPlaye2805">
+    <img src="https://img.shields.io/badge/diyari--faisal-black?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Feel free to reach out for collaboration, project inquiries,<br/>
+  or just to connect about technology and development!</b>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=100&section=footer"/>
