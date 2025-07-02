@@ -83,9 +83,9 @@ My most notable project is a fully functional e-commerce website, which I develo
 
 Feel free to reach out for collaboration, project inquiries, or just to connect about technology and development!
 
-<!--
-Email: your.email@domain.com
--->
+
+Email: diyari2006@gmail.com
+LinkedIn: www.linkedin.com/in/diyari-faisal
 
 ---
 
