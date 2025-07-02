@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Hi%20there!%20I'm%20DemonPlayer96&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Hi%20there!%20I'm%20Diyari&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Welcome Banner"/>
 </p>
 
 <!-- Badges -->
